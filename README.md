@@ -1,6 +1,6 @@
 # Pregunta 4 : Cuaterniones
 
-Este programa contiene una clase que define el tipo Cuaternion que permite realizar operaciones con números mediante la sobrecarga de operaciones suma y multiplicación.
+Este programa escrito en Python contiene una clase que define el tipo Cuaternion que permite realizar operaciones con números mediante la sobrecarga de operaciones suma y multiplicación.
 
 - La suma de cuaterniones se realiza con la suma binaria.
 - La multiplicación de cuaterniones se realiza con la multiplicación binaria.
