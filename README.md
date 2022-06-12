@@ -1,11 +1,13 @@
 # Pregunta 4 : Cuaterniones
 
 Este programa contiene una clase que define el tipo Cuaternion que permite realizar operaciones con numeros mediante la sobrecarga de operaciones suma y multiplicación.
-La suma de cuaterniones se realiza con la suma binaria.
-La multiplicación de cuaterniones se realiza con la multiplicación binaria.
-La conjugada de cuaterniones se realiza con el símbolo ~ o -.
+
+- La suma de cuaterniones se realiza con la suma binaria.
+- La multiplicación de cuaterniones se realiza con la multiplicación binaria.
+- La conjugada de cuaterniones se realiza con el símbolo ~ o -.
 Por ejemplo, la conjugada del cuaternion a puede ser ~a o -a
-El valor absoluto de un cuaternion puede obtenerse con la suma unaria, por lo que el valor absoluto del cuaternión a es +a
+
+- El valor absoluto de un cuaternion puede obtenerse con la suma unaria, por lo que el valor absoluto del cuaternión a es +a
 
 
 ## ¿Cómo correr el programa?
@@ -17,7 +19,7 @@ Se puede importar de la siguiente manera:
           ......
 
 ## Unit Test y Code Coverage
-Durante el unit test realizado con el archivo unitTest.py todos los tests fueron completados con la librería unittest de Python. Y se obtuvo un code coverage de 96%
+Durante el unit test realizado con el archivo unitTest.py todos los tests fueron completados de manera satisfactoria con la librería unittest de Python. Y se obtuvo un code coverage de 96%
 
 <img src="coverage.jpg" alt="tests"/>
 
